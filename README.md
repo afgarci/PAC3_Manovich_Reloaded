@@ -1,9 +1,7 @@
 # PAC3. Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació
 
 **Cultura Digital - Grau en Multimèdia (UOC)**
-
 Autora: Anna Fernández García
-
 Data: Desembre 2023
 
 
@@ -20,6 +18,6 @@ El joc Trivial Pursiut de la Wii representa la hibridació entre el món de l'en
 
 Trivial Pursuit podríem dir que és una prova que permet avaluar els coneixements dels participants o conèixer-ne les opinions sobre un tema determinat. El trivial pot adoptar la forma d'una prova de coneixements generals, un joc de preguntes i respostes.
 
-Al llibre de Manovich, se subratlla la importància de la participació de la comunitat. En el cas del Trivial Pursuit, observem com es tracta d‟un joc de coneixements compartit amb amics o familiars, fomentant la interacció social il‟intercanvi d‟idees. Aquest joc es gaudeix generalment amb l'objectiu de respondre correctament les preguntes i superar el contrincant, cosa que afegeix un element competitiu que potencia encara més la participació i el compromís dels jugadors en l'experiència de l'aprenentatge i la diversió compartida.
+Al llibre de Manovich, se subratlla la importància de la participació de la comunitat. En el cas del Trivial Pursuit, observem com es tracta d‟un joc de coneixements compartit amb amics o familiars, fomentant la interacció social i l'intercanvi d'idees. Aquest joc es gaudeix generalment amb l'objectiu de respondre correctament les preguntes i superar el contrincant, cosa que afegeix un element competitiu que potencia encara més la participació i el compromís dels jugadors en l'experiència de l'aprenentatge i la diversió compartida.
 
 Trivial utilitza la tecnologia per presentar als jugadors una varietat d'escenaris interactius i preguntes interessants que transcendeixen els límits tradicionals dels jocs de taula. La combinació de tecnologia i educació no només ofereix entreteniment, sinó que també crea una nova experiència d'aprendre molt més interessant.
