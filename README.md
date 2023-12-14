@@ -1,7 +1,9 @@
 # PAC3. Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació
 
 **Cultura Digital - Grau en Multimèdia (UOC)**
+
 Autora: Anna Fernández García
+
 Data: Desembre 2023
 
 
