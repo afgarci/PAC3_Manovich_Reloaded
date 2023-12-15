@@ -33,9 +33,10 @@ Trivial utilitza la tecnologia per presentar als jugadors una varietat d'escenar
 ![logo strava](https://upload.wikimedia.org/wikipedia/commons/c/cb/Strava_Logo.svg)
 
 Strava és una xarxa social basada en Internet i GPS enfocada a esportistes com ara ciclistes i corredors i una aplicació de seguiment GPS esportiva.
+
 Els membres de la xarxa poden veure la velocitat de la trajectòria, les diferències d'alçada i el consum d'energia utilitzant un telèfon intel·ligent o un dispositiu GPS compatible. A més, a través de sensors es poden guardar més dades com ara la freqüència cardíaca, la cadència i la potència.
 
-La hibridació en aquesta plataforma es manifesta mitjançant la combinació de dos elements fonamentals: per una banda, la generació de continguts per part de la comunitat d'usuaris, que contribueix a crear una extensa base de dades que abasta diverses rutes amb característiques úniques; d'altra banda, s'incorpora un sistema de seguiment avançat que utilitza tecnologies GPS i geolocalització per aprofitar aquestes dades i permetre als usuaris rastrejar i gravar les seves pròpies rutes.
+Com diu Manovich la hibridació presenta diversos elements que es fusionen per oferir una experiència nova i coherent, que és diferent a experimentar els elements un per un. La hibridació en aquesta plataforma es manifesta mitjançant la combinació de dos elements fonamentals: per una banda, la generació de continguts per part de la comunitat d'usuaris, que contribueix a crear una extensa base de dades que abasta diverses rutes amb característiques úniques; d'altra banda, s'incorpora un sistema de seguiment avançat que utilitza tecnologies GPS i geolocalització per aprofitar aquestes dades i permetre als usuaris rastrejar i gravar les seves pròpies rutes.
 
 Aquesta convergència d'elements tecnològics i la participació activa de la comunitat afegeix una capa addicional de riquesa a la plataforma. Els usuaris no només consumeixen informació, sinó que també es converteixen en creadors de contingut en comentar, valorar i compartir les seves experiències. Aquesta interactivitat no sols potencia la utilitat pràctica de la plataforma en proporcionar dades precises sobre les rutes, sinó que també la converteix en un espai dinàmic on la comunitat juga un paper fonamental en la millora contínua i l'expansió de la base de coneixements disponible.
 
@@ -44,3 +45,5 @@ Aquesta convergència d'elements tecnològics i la participació activa de la co
 
 ## Bibliografia
 MANOVICH, Lev. El software toma el mando [en línia]. Editorial UOC, 2013. ISBN 978-84-9064-022-7 [consulta: 5 de desembre de 2023]. Disponible a: [https://books.google.es/books?id=GK7BAgAAQBAJ&hl=ca&source=gbs_book_other_versions](https://books.google.es/books?id=GK7BAgAAQBAJ&hl=ca&source=gbs_book_other_versions)
+
+*Strava* Wikipedia.org [en linia] [Consulta: 10 de desembre de 2023]Disponible a: https://es.wikipedia.org/wiki/Strava
