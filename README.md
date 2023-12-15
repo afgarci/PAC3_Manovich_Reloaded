@@ -12,7 +12,7 @@ Data: Desembre 2023
 
 ## Introducció
 
-En aquest document parlaré del concepte d’**hibridació** des de el punt de vista de Lev Manovich que ens dona en el seu llibre **El software toma el mando** (2013). La hibridació, segons Manovich, fa referència a combinar característiques i estils de diferents mitjans en un per formar nous significats i formats d'expressió més elaborats i multidimensionals.
+En aquest document parlaré del concepte d’**hibridació** des de el punt de vista de Lev Manovich que ens dona en el seu llibre **El software toma el mando** (2013). La hibridació, segons Manovich, fa referència a combinar característiques i estils de diferents mitjans en un per formar nous significats i també crear formats d'expressió més elaborats i multidimensionals.
 
 Basant-me en aquests conceptes, estudiaré dos exemples que crec que poden il·lustrar aquest concepte d'hibridació, esforçant-me per emprar la perspectiva de Lev Manovich en tot moment.
 
@@ -32,6 +32,8 @@ Trivial utilitza la tecnologia per presentar als jugadors una varietat d'escenar
 
 ![logo strava](https://upload.wikimedia.org/wikipedia/commons/c/cb/Strava_Logo.svg)
 
+Strava és una xarxa social basada en Internet i GPS enfocada a esportistes com ara ciclistes i corredors i una aplicació de seguiment GPS esportiva.
+Els membres de la xarxa poden veure la velocitat de la trajectòria, les diferències d'alçada i el consum d'energia utilitzant un telèfon intel·ligent o un dispositiu GPS compatible. A més, a través de sensors es poden guardar més dades com ara la freqüència cardíaca, la cadència i la potència.
 
 ## Conclusions
 
