@@ -7,7 +7,7 @@ Autora: Anna Fernández García
 
 
 Data: Desembre 2023
-![hola](url=https://ibb.co/cvnBdcf][img]https://i.ibb.co/8BZCVDv/jovenes-amantes-juego-jugando-videojuegos-casa-171337-4112.jpg[/img][/url)
+
 
 ![Dos persones jugant a un videojoc](https://ibb.co/cvnBdcf)
 
