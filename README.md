@@ -8,6 +8,7 @@ Autora: Anna Fernández García
 
 Data: Desembre 2023
 
+https://ibb.co/cvnBdcf
 
 ![Dos persones jugant a un videojoc](https://ibb.co/cvnBdcf)
 
