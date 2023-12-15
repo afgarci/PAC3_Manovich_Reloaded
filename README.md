@@ -1,8 +1,14 @@
 # PAC3. Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació
 
 **Cultura Digital - Grau en Multimèdia (UOC)**
+
+
 Autora: Anna Fernández García
+
+
 Data: Desembre 2023
+
+
 ![Dos persones jugant a un videojoc](https://www.freepik.es/foto-gratis/jovenes-amantes-juego-jugando-videojuegos-casa_6812728.htm#query=wii&position=9&from_view=search&track=ais&uuid=913d9e6a-30e0-4c3a-a6f9-2722e804db8d)
 
 ## Introducció
