@@ -18,7 +18,7 @@ Basant-me en aquests conceptes, estudiaré dos exemples que crec que poden il·l
 
 
 ## Redescobrint la hibridació: cas 1: Wii Trivial
-![joc trivial](https://www.amazon.es/Trivial-Pursuit-Wii-Importación-inglesa/dp/B001QTWJU8/ref=sr_1_2?keywords=juego+trivial+wii&qid=1702645042&sr=8-2)
+![joc trivial](https://images.nintendolife.com/screenshots/16521/large.jpg)
 
 El joc Trivial Pursiut de la Wii representa la hibridació entre el món de l'entreteniment digital i la incentivació de nous coneixements, és a dir, l'àmbit de l'educació. Aquest joc de la Wii transforma l'experiència d'aprendre coses en una experiència interactiva i divertida. Inspirats per la visió de Lev Manovich sobre la transformació de mitjans, explorarem com el joc Trivial fusiona la tecnologia dels videojocs amb l'educació i proporciona una experiència única i captivadora per als usuaris.
 
