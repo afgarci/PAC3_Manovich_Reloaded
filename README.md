@@ -31,3 +31,10 @@ Trivial utilitza la tecnologia per presentar als jugadors una varietat d'escenar
 ## Resdescobrint la hibridació: cas 2: Strava
 
 ![logo strava](https://upload.wikimedia.org/wikipedia/commons/c/cb/Strava_Logo.svg)
+
+
+## Conclusions
+
+
+## Bibliografia
+MANOVICH, Lev. El software toma el mando [en línia]. Editorial UOC, 2013. ISBN 978-84-9064-022-7 [consulta: 5 de desembre de 2023]. Disponible a: [https://books.google.es/books?id=GK7BAgAAQBAJ&hl=ca&source=gbs_book_other_versions](https://books.google.es/books?id=GK7BAgAAQBAJ&hl=ca&source=gbs_book_other_versions)
