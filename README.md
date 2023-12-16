@@ -46,7 +46,10 @@ Aquests dos exemples de disseny no només busquen millorar la qualitat del serve
 
 La hibridació, en aquest context, no implica només la combinació de característiques, sinó que també introdueix una certa complexitat en l'experiència de l'usuari. En unir diferents elements, es genera un escenari on l'usuari es desafia a prendre decisions que impactaran en el resultat final. Aquest nivell d'interactivitat no només augmenta la participació de l'usuari, sinó que també contribueix a la singularitat i l'atractiu d'aquests dissenys en oferir experiències més riques i personalitzades.
 
-## Bibliografia
+## Bibliografia i recursos utilitzats
 MANOVICH, Lev. El software toma el mando [en línia]. Editorial UOC, 2013. ISBN 978-84-9064-022-7 [consulta: 5 de desembre de 2023]. Disponible a: [https://books.google.es/books?id=GK7BAgAAQBAJ&hl=ca&source=gbs_book_other_versions](https://books.google.es/books?id=GK7BAgAAQBAJ&hl=ca&source=gbs_book_other_versions)
 
 *Strava* Wikipedia.org [en linia] [Consulta: 10 de desembre de 2023]Disponible a: https://es.wikipedia.org/wiki/Strava
+
+Imatge 1: Trivial Pursuit Wii https://images.nintendolife.com/screenshots/16520/large.jpg
+Imatge 2: Logo Strava https://upload.wikimedia.org/wikipedia/commons/c/cb/Strava_Logo.svg
