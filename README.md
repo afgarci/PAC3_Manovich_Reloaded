@@ -52,4 +52,5 @@ MANOVICH, Lev. El software toma el mando [en línia]. Editorial UOC, 2013. ISBN 
 *Strava* Wikipedia.org [en linia] [Consulta: 10 de desembre de 2023]Disponible a: https://es.wikipedia.org/wiki/Strava
 
 Imatge 1: Trivial Pursuit Wii https://images.nintendolife.com/screenshots/16520/large.jpg
+
 Imatge 2: Logo Strava https://upload.wikimedia.org/wikipedia/commons/c/cb/Strava_Logo.svg
