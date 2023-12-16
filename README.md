@@ -42,6 +42,9 @@ Aquesta convergència d'elements tecnològics i la participació activa de la co
 
 ## Conclusions
 
+Aquests dos exemples de disseny no només busquen millorar la qualitat del servei en els seus àmbits respectius, sinó que també incorporen la hibridació com un element fonamental per enriquir de manera significativa l'experiència de l'usuari. En comptes d'oferir solucions convencionals, opten per fusionar elements diferents per crear productes únics, atractius i interessants.
+
+La hibridació, en aquest context, no implica només la combinació de característiques, sinó que també introdueix una certa complexitat en l'experiència de l'usuari. En unir diferents elements, es genera un escenari on l'usuari es desafia a prendre decisions que impactaran en el resultat final. Aquest nivell d'interactivitat no només augmenta la participació de l'usuari, sinó que també contribueix a la singularitat i l'atractiu d'aquests dissenys en oferir experiències més riques i personalitzades.
 
 ## Bibliografia
 MANOVICH, Lev. El software toma el mando [en línia]. Editorial UOC, 2013. ISBN 978-84-9064-022-7 [consulta: 5 de desembre de 2023]. Disponible a: [https://books.google.es/books?id=GK7BAgAAQBAJ&hl=ca&source=gbs_book_other_versions](https://books.google.es/books?id=GK7BAgAAQBAJ&hl=ca&source=gbs_book_other_versions)
