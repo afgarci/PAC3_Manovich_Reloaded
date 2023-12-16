@@ -14,7 +14,7 @@ Data: Desembre 2023
 
 En aquest document parlaré del concepte d’**hibridació** des de el punt de vista de Lev Manovich que ens dona en el seu llibre **El software toma el mando** (2013). La hibridació, segons Manovich, fa referència a combinar característiques i estils de diferents mitjans en un per formar nous significats i també crear formats d'expressió més elaborats i multidimensionals.
 
-Basant-me en aquests conceptes, estudiaré dos exemples que crec que poden il·lustrar aquest concepte d'hibridació, esforçant-me per emprar la perspectiva de Lev Manovich en tot moment.
+A través d'aquesta lent conceptual, examinaré detingudament dos exemples que considero representatius d'aquest fenomen d'hibridació, procurant aplicar constantment la perspectiva proporcionada per Lev Manovich. Aquest enfocament permetrà comprendre les tècniques de programari i els algoritmes subjacents que contribueixen a la formació d'aquests híbrids, proporcionant una visió més completa de la seva naturalesa i abast al panorama actual de l'expressió digital.
 
 
 ## Redescobrint la hibridació: cas 1: Wii Trivial
